@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "19399721702",
+    "project_id": "realtimerecyclerviewdemo-dfdfd",
+    "storage_bucket": "realtimerecyclerviewdemo-dfdfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19399721702:android:d693a19e922e23bc667127",
+        "android_client_info": {
+          "package_name": "com.example.realtimerecyclerview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19399721702-c6da0rl3b50d7b6q4it5s9p2ipc1sio8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAErBa0odPpKuZFIDvr_2MVoUacPLM34DQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19399721702-c6da0rl3b50d7b6q4it5s9p2ipc1sio8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
